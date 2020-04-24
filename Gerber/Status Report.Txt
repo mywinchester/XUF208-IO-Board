@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [XUF208_IO.PrjPcb]
+   Generated File[XUF208_IO.TXT]
+   Generated File[XUF208_IO.LDP]
+   Generated File[XUF208_IO.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 17:37:16 On 2020/4/24
