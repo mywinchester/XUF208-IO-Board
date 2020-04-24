@@ -9,4 +9,4 @@ From  : Project [XUF208_IO.PrjPcb]
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 17:37:16 On 2020/4/24
+Finished Output Generation At 18:30:31 On 2020/4/24
